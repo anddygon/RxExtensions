@@ -41,5 +41,8 @@ TODO: Add long description of the pod here.
   # s.dependency 'AFNetworking', '~> 2.3'
   s.dependency 'RxSwift', '~> 4.0.0'
   s.dependency 'RxCocoa', '~> 4.0.0'
+  s.dependency 'Moya', '~> 10.0.0'
+  s.dependency 'ObjectMapper', '~> 3.0.0'
+  s.dependency 'RxOptional', '~> 3.3.0'
 
 end
